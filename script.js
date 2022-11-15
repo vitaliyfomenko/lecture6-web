@@ -30,3 +30,7 @@ document.getElementById('loadItems').addEventListener('click', () => {
   xhttp.open('GET', '_items.html', true);
   xhttp.send();
 })
+
+document.getElementById('clearItems').addEventListener("click", ()=>{
+   document.getElementById('myList').innerHTML = "";
+})

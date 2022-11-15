@@ -1,0 +1,16 @@
+GET /lecture6/_items.html HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Connection: keep-alive
+Cookie: Idea-96338263=5ab24691-842a-4a2d-a6d3-8f4a3d4abdaf
+Host: localhost:63342
+If-Modified-Since: Tue, 15 Nov 2022 07:33:18 GMT
+Referer: http://localhost:63342/lecture6/index.html?_ijt=p8art5jkjab785jtr24mdchukp&_ij_reload=RELOAD_ON_SAVE
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
